@@ -4,11 +4,6 @@
 
 <p align="left">An ambitious Data Analyst From Egypt, with a passion for transforming data into actionable insights. Let's explore the power of data together!</p>
 
-###
-
-<h2 align="left"></h2>
-
-###
 
 <p align="left">📊 Currently freelancing on Upwork, Mostaql, and Khamsat.<br>📚 Continuously learning from platforms like Skillsoft, DataCamp, and Udemy<br>🌱 Exploring advanced analytics, AI tools, and automation techniques<br>✨ Fluent in Arabic and English (C2)</p>
 
