@@ -1,4 +1,4 @@
-<h1 align="left">Hello 🌍 I'm NourEldin Marazy👋🏼</h1>
+<h1 align="left">Hello! 🌍 I'm NourEldin Marazy👋🏼</h1>
 
 ###
 
